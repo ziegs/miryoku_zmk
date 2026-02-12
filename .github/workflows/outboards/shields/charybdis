@@ -1,0 +1,7 @@
+
+outboard_repository=ziegs/zmk-for-charybdis
+outboard_ref=charybdis-Nano35
+outboard_from=config/boards/shields/charybdis
+outboard_to=boards/shields/charybdis
+outboard_modules=DoctorWangWang/zmk-pmw3610-driver/main
+
